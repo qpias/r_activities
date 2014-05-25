@@ -1,2 +1,3 @@
-r_activities
-============
+Running this script assumes the UCI HAR Dataset exists in the same folder
+requires library reshape
+
